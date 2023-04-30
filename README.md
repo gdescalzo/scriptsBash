@@ -9,3 +9,6 @@ This repository contains Bash scripts for automating common tasks. From system a
 ## monitoringLinuxSO Folder
 
 > On this folder you can find differents scripts to monitor different use cases.
+
+## bkp-srv
+> Backup monitoring system for network devices based on TLC send expect and bash commands.
